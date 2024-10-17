@@ -22,6 +22,11 @@ body {
     border-radius: 10px;
 }
 
+#game-container a {
+  text-decoration: none;  
+  color: #2196F3
+}
+
 #arrow {
     font-size: 100px;
     margin-bottom: 20px;
